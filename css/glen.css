@@ -1,0 +1,86 @@
+body{
+    font-family: Calibri sans serif;
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+    
+}#container{
+    width: 1260px;
+    background-color: #D5E3EE;
+    margin-right: auto;
+    margin-left: auto;
+}header{
+    background-color: purple;
+}#contact{
+    width: 50%;
+    float: right;/* ADDED IN TO MATCH FIGURE 2 */
+}#contact p{
+    font-size: 0.9em;
+    color: white;
+    padding: 1em;
+    text-align: right;
+}#contact a{
+    color: white;/* ADDED IN TO MATCH FIGURE 2 */
+}#logo{
+    width: 50%;
+    float: left;/* ADDED IN TO MATCH FIGURE 2 */
+}#headerImg img{
+    clear: both;/* ADDED IN TO MATCH FIGURE 2 */
+    max-width: 100%;
+}main{
+    width: 80%;
+    padding-top: 4em; 
+    padding-bottom: 4em;
+    margin-left: 100px;/* ADDED IN TO MATCH FIGURE 2 */
+}#leftCol{
+    float: left;/* ADDED IN TO MATCH FIGURE 2 */
+    width: 60%;
+    padding-right: 4em;
+}#rightCol{
+    float: right; /* ADDED IN TO MATCH FIGURE 2 */
+    width: 30%;
+    background-color: #A9F5F2;
+    padding: 1em;
+    border-radius: 8px;/* ADDED IN TO MATCH FIGURE 2 */
+}h1{
+    font-size: 1.3em;
+}h2{
+    font-size: 1.2em;
+}h3{
+    font-size: 1.1em;
+}#leftCol, #rightCol{
+    margin-bottom: 3em;
+    height: 350px;/* ADDED IN TO MATCH FIGURE 2 */
+}h1, h3{
+    text-transform: uppercase;
+}footer{
+    clear: both;/* ADDED IN TO MATCH FIGURE 2 */
+    background-color: black;
+    color: white;
+    font-size: 0.8em;
+    height: 14em;
+}.footerDiv{                                           
+    float: left;
+    width: 30%;
+    padding-left: 3em;
+}footer img{
+    padding-right: 0.5em;
+}legend{
+    color: #332E2E;
+    font-size: 1em;
+}fieldset{
+    border: 1px solid #332E2E;
+    border-radius: 4px;
+}input, select{
+    margin-bottom: 15px;/* ADDED IN TO MATCH FIGURE 2 */
+    margin-top: 15px;/* ADDED IN TO MATCH FIGURE 2 */
+    width: 140px;
+    float: right
+    
+}#confirm{
+    margin-bottom: 9px;/* ADDED IN TO MATCH FIGURE 2 */
+}label{
+    padding: 1em;
+    float: left;
+    clear: right;
+}
